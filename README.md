@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there! I'm İsmail
 
-<!--
-**is00m/is00m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future full-stack developer currently learning software development through the [Patika.dev](https://www.patika.dev) program.  
+My goal is to completely change my career and build meaningful, scalable applications that make a difference.
 
-Here are some ideas to get you started:
+💡 I'm passionate about learning new technologies, solving real-world problems, and continuously improving my skills — one line of code at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack (Learning & Using)
+- 💻 Java • Spring Boot • SQL (MySQL / PostgreSQL)
+- 🧰 Git • GitHub • IntelliJ IDEA • VS Code
+- 🎨 HTML • CSS • JavaScript
+
+---
+
+## 📈 What I'm Working On
+- Deepening my backend skills with Spring Boot
+- Learning about REST APIs, authentication, and data modeling
+- Preparing to dive into frontend development with React
+- Building clean, modular and testable codebases
+
+---
+
+## 🌱 Currently Learning
+- Object-Oriented Design Principles (Java)
+- Database design & relationships
+- Clean Code, SOLID Principles
+- Web Security Basics (JWT, HTTPS, etc.)
+
+---
+
+## 📫 Let's Connect
+- GitHub: [github.com/is00m](https://github.com/is00m)
+- LinkedIn: [linkedin.com/in/isoklc32](https://linkedin.com/in/isoklc32)

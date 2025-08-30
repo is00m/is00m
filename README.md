@@ -1,15 +1,14 @@
 # 👋 Hi there! I'm İsmail
 
-I'm a future full-stack developer currently learning software development through the [Patika.dev](https://www.patika.dev) program.  
+I'm a future fullstack developer currently learning software development through the [Patika.dev](https://www.patika.dev) program.  
 My goal is to completely change my career and build meaningful, scalable applications that make a difference.
 
-💡 I'm passionate about learning new technologies, solving real-world problems, and continuously improving my skills — one line of code at a time.
+💡 I'm passionate about learning new technologies, solving real world problems, and continuously improving my skills one line of code at a time.
 
 ---
 
 ## 🛠️ Tech Stack (Learning & Using)
-- 💻 Java • Spring Boot • SQL (MySQL / PostgreSQL)
-- 🧰 Git • GitHub • IntelliJ IDEA • VS Code
+- 💻 Java • Python0 • Spring Boot • SQL (MySQL / PostgreSQL)
 - 🎨 HTML • CSS • JavaScript
 
 ---

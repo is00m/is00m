@@ -8,7 +8,7 @@ My goal is to completely change my career and build meaningful, scalable applica
 ---
 
 ## 🛠️ Tech Stack (Learning & Using)
-- 💻 Java • Python0 • Spring Boot • SQL (MySQL / PostgreSQL)
+- 💻 Java • Python • Spring Boot • SQL (MySQL / PostgreSQL)
 - 🎨 HTML • CSS • JavaScript
 
 ---

@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm İsmail
-🎯 I’m currently working on learning Spring Boot and designing a new project to practice backend development.  <br><br>🤝 I’m looking to collaborate on java-based projects and full-stack applications.  <br><br>🙌 I’m looking for help with improving project structure and clean coding practices.  <br><br>🌱 I’m currently learning   HTML, CSS, JavaScript, React.
+🎯 I’m currently working on learning Spring Boot and designing a new project to practice backend development.  <br><br>🤝 I’m looking to collaborate on java-based projects and full-stack applications. <br><br>🌱 I’m currently learning   HTML, CSS, JavaScript, React.
 
 
 # Socials:

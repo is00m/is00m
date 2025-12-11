@@ -35,7 +35,3 @@
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/></a>
 
 </p>
-
-<p align="center">
-  🚀 <i>Always improving, always building.</i>
-</p>

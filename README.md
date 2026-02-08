@@ -13,7 +13,7 @@
 
 ### 🛒 Production E-commerce Platform
 
-Spring Boot • PostgreSQL • Docker • Payment Integration  
+Spring Boot • PostgreSQL • Docker • Hosting & Domain Configuration • Payment Integration  
 
 🌐 Live Projects  
 👉 https://odemisguvenet.com  
